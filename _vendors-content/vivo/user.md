@@ -13,7 +13,7 @@ For Funtouch OS 2.6 and lower version: *i Manager > App manager > Autostart mana
 
 ## Unrestricted battery usage
 
-As reported from the Android 13 version; you can set a non-restricted battery usage for each app individually.
+As reported from the Android 15 version; you can set a non-restricted battery usage for each app individually.
 
 <div class="img-block">
   <figure>
